@@ -37,5 +37,5 @@
 </form>
 
 <footer>
-  <p><a href="mailto:hege@example.com">vinnynarula.com</a></p>
+  <p><a href="https://www.vinnynarula.com/">www.vinnynarula.com</a></p>
 </footer> 
