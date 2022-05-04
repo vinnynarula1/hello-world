@@ -35,6 +35,6 @@
 </form>
 
 <footer>
-  <h3>Cick on my below link to check my Website</h3>
+  <h3>Cick on the below link to check my Website</h3>
   <p><a href="https://www.vinnynarula.com/">www.vinnynarula.com</a></p>
 </footer> 
